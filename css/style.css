@@ -17,3 +17,11 @@ li:hover {
   color: #000;
 }
 
+h1 {
+  font-size: 4rem;
+  margin-top: 15vw;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  background-color: #aaa;
+}
