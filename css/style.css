@@ -2,6 +2,8 @@ body {
   font: 2rem 'quasimoda', sans-serif;
   color: #fff;
   background-image: url('../img/cdp/img-4621-copy.JPG');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 a {
