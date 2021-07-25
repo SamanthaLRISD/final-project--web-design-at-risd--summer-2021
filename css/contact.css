@@ -1,1 +1,47 @@
+body {
+  font: 2rem 'quasimoda', sans-serif;
+  color: #fff;
   background-image: url('../img/ill2/untitled-artwork-12-copy.jpg');
+  background-repeat: no-repeat;
+  background-size: 120%;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+ul {
+  padding: 3rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: row;
+  position: sticky;
+  background-color: #953FFC;
+}
+
+li:hover {
+  color: #000;
+}
+
+main {
+  background-color: #BBA9FF;
+  display: flex;
+  flex-direction: column;
+}
+
+img {
+  width: 25rem;
+  margin: auto;
+  padding: 2rem;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+p {
+  text-align: center;
+  padding: 1.5rem;
+}
