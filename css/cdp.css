@@ -19,6 +19,12 @@ ul {
   background-color: #953FFC;
 }
 
+main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
 a:hover {
   color: #000;
 }
